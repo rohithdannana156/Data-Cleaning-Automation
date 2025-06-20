@@ -68,3 +68,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Built with ❤️ using [Streamlit](https://streamlit.io/).
+
+🔗 **Live App**: [Click to preview](https://data-cleaning-automation.streamlit.app/)
+
