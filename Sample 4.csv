@@ -1,0 +1,11 @@
+id,name,age,category,date,salary
+1,John Doe,28.0,Engineering,2022-03-15,60000.0
+2,Jane Smith,34.0,Marketing,2022-02-10,70000.0
+3,Bob Johnson,,Sales,,50000.0
+4,Anna Lee,25.0,Engineering,2023-01-22,
+5,Mike Brown,45.0,Sales,2021-11-05,80000.0
+6,Emily Davis,38.0,Marketing,2022-09-12,75000.0
+7,John Doe,28.0,Engineering,2022-03-15,60000.0
+8,Grace Kim,,Engineering,2021-05-19,62000.0
+9,,38.0,Marketing,2022-09-12,73000.0
+10,David Wilson,33.0,Sales,2021-11-25,71000.0
